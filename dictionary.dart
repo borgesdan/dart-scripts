@@ -15,8 +15,9 @@ class Dictionary
 
   Dictionary();
 
-  ///Obtém a requesição do site em formato json.
-  Future<dynamic> _getResponse(String key) async {
+  ///Obtém uma requesição do site em formato json.
+  ///[key] é a chave a ser adicionada após a url base. Ex.: https://api.dicionario-aberto.net/[$key]
+  Future<dynamic> getResponse(String key) async {
     http.Response response = await http.get(_baseUrl + key);
     String body = utf8.decode(response.bodyBytes);
     return json.decode(body);
