@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<lei>
+  <nome>8.112, de 11 de Dezembro de 1990</nome>
+  <ementa>Dispõe sobre o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias e das fundações públicas federais </ementa>
+  <corpo>
+    <texto>O PRESIDENTE DA REPÚBLICA \nFaço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:</texto>
+    <titulo>
+      <capitulo valor="ÚNICO" texto="Das Disposições Preliminares">
+        <art>
+          <texto>
+            Art. 1º Esta Lei institui o regime jurídico dos servidores públicos civis da União, das autarquias, inclusive as em regime especial, e das fundações públicas federais.
+          </texto>
+        </art>
+        <art>
+          <texto>
+            Art. 2º Para os efeitos desta Lei, servidor é a pessoa legalmente investida em cargo público.
+          </texto>
+        </art>
+         <art>
+          <texto>
+            Art. 3º Cargo público é o conjunto de atribuições e responsabilidades previstas na estrutura organizacional que devem ser cometidas a um servidor.
+          </texto>
+          <paragrafo valor="unico">Parágrafo único. Os cargos públicos, acessíveis a todos os brasileiros, são criados por lei, com denominação própria e vencimento pago pelos cofres públicos, para provimento em caráter efetivo ou em comissão.</paragrafo>
+        </art>        
+        <art>
+          <texto>
+            Art. 4º É proibida a prestação de serviços gratuitos, salvo os casos previstos em lei.
+          </texto>
+        </art>
+      </capitulo>
+    </titulo>
+    <titulo texto="Do Provimento, Vacância, Remoção, Redistribuição e Substituição">
+      <capitulo texto="Do Provimento">
+        <secao texto="Disposições Gerais">
+          <art>
+          <texto>
+            Art. 5º São requisitos básicos para investidura em cargo público: 
+          </texto>
+          <inciso>I - a nacionalidade brasileira;</inciso>
+          <inciso>II - o gozo dos direitos políticos;</inciso>
+          <inciso>III - a quitação com as obrigações militares e eleitorais; </inciso>
+          <inciso>IV - o nível de escolaridade exigido para o exercício do cargo; </inciso>
+          <inciso>V - a idade mínima de dezoito anos; </inciso>
+          <inciso>VI - aptidão física e mental. </inciso>
+          <paragrafo>§ 1º As atribuições do cargo podem justificar a exigência de outros requisitos estabelecidos em lei.</paragrafo>
+          <paragrafo>§ 2º Às pessoas portadoras de deficiência é assegurado o direito de se inscrever em concurso público para provimento de cargo cujas atribuições sejam compatíveis com a deficiência de que são portadoras; para tais pessoas serão reservadas até 20% (vinte por cento) das vagas oferecidas no concurso.</paragrafo>
+          <paragrafo incluido="Lei nº 9.515, de 20.11.97">§ 3o  As universidades e instituições de pesquisa científica e tecnológica federais poderão prover seus cargos com professores, técnicos e cientistas estrangeiros, de acordo com as normas e os procedimentos desta Lei.</paragrafo>
+          </art>
+          <art>
+            <texto>
+              Art. 6º O provimento dos cargos públicos far-se-á mediante ato da autoridade competente de cada Poder.
+            </texto>
+          </art>
+          <art>
+              <texto>
+                Art. 7º A investidura em cargo público ocorrerá com a posse.
+              </texto>
+          </art>
+          <art>
+            <texto>
+              Art. 8º São formas de provimento de cargo público:
+            </texto>
+            <inciso>I - nomeação;</inciso>
+            <inciso>II - promoção;</inciso>
+            <inciso revogado="Lei nº 9.527, de 10.12.97"> III - ascensão;</inciso>
+            <inciso revogado="Lei nº 9.527, de 10.12.97">IV - transferência;</inciso>
+            <inciso>V - readaptação;</inciso>
+            <inciso>VI - reversão;</inciso>          
+            <inciso>VII - aproveitamento; </inciso>          
+            <inciso>VIII - reintegração; </inciso>          
+            <inciso>IX - recondução.</inciso>          
+          </art>
+        </secao>
+      </capitulo>      
+    </titulo>
+  </corpo>
+</lei>
